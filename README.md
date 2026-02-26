@@ -9,4 +9,4 @@ This repository contains my lab programs and practice problems.
 - Algorithms
 
 ## Author
-Aakash
+Aakash S S
