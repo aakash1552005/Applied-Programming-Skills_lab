@@ -223,6 +223,7 @@ Aakash S S
 | [0155-min-stack](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -233,10 +234,12 @@ Aakash S S
 | [0232-implement-queue-using-stacks](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0641-design-circular-deque) |
+| [0901-online-stock-span](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0933-number-of-recent-calls) |
 ## Greedy
 |  |
@@ -264,5 +267,6 @@ Aakash S S
 ## Monotonic Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
