@@ -70,6 +70,7 @@ Aakash S S
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0283-move-zeroes) |
@@ -302,4 +303,8 @@ Aakash S S
 | [0234-palindrome-linked-list](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0344-reverse-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
