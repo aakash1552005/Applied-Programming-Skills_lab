@@ -253,6 +253,7 @@ Aakash S S
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0641-design-circular-deque) |
 ## Sliding Window
@@ -276,4 +277,8 @@ Aakash S S
 | [0739-daily-temperatures](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
