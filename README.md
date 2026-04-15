@@ -109,6 +109,7 @@ Aakash S S
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0622-design-circular-queue) |
@@ -211,9 +212,11 @@ Aakash S S
 | [0094-binary-tree-inorder-traversal](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0933-number-of-recent-calls) |
