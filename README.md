@@ -342,10 +342,12 @@ Aakash S S
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0070-climbing-stairs) |
 | [0973-k-closest-points-to-origin](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0973-k-closest-points-to-origin) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Prefix Sum
@@ -369,4 +371,8 @@ Aakash S S
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0973-k-closest-points-to-origin) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
