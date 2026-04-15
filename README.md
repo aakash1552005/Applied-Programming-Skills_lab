@@ -72,6 +72,7 @@ Aakash S S
 | ------- |
 | [0075-sort-colors](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0239-sliding-window-maximum) |
@@ -110,6 +111,7 @@ Aakash S S
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0387-first-unique-character-in-a-string) |
@@ -139,6 +141,7 @@ Aakash S S
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0621-task-scheduler) |
@@ -200,12 +203,14 @@ Aakash S S
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0621-task-scheduler) |
