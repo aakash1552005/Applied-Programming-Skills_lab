@@ -82,6 +82,7 @@ Aakash S S
 | [0622-design-circular-queue](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0641-design-circular-deque) |
 | [0695-max-area-of-island](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0946-validate-stack-sequences) |
@@ -218,6 +219,7 @@ Aakash S S
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0704-binary-search](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0704-binary-search) |
 ## Backtracking
 |  |
 | ------- |
