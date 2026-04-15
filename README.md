@@ -70,6 +70,7 @@ Aakash S S
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0239-sliding-window-maximum) |
@@ -198,6 +199,7 @@ Aakash S S
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0621-task-scheduler) |
@@ -298,6 +300,7 @@ Aakash S S
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0234-palindrome-linked-list) |
