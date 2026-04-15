@@ -102,6 +102,7 @@ Aakash S S
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -191,4 +192,12 @@ Aakash S S
 | [0094-binary-tree-inorder-traversal](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0145-binary-tree-postorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
