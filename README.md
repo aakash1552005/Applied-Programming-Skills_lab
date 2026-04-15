@@ -16,17 +16,21 @@ Aakash S S
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0210-course-schedule-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0210-course-schedule-ii) |
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
