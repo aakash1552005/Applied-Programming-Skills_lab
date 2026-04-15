@@ -107,6 +107,7 @@ Aakash S S
 | ------- |
 | [0257-binary-tree-paths](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0387-first-unique-character-in-a-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Queue
 |  |
@@ -220,6 +221,7 @@ Aakash S S
 | [0232-implement-queue-using-stacks](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0946-validate-stack-sequences) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
 | ------- |
