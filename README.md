@@ -19,6 +19,7 @@ Aakash S S
 | [0104-maximum-depth-of-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0695-max-area-of-island) |
@@ -93,11 +94,13 @@ Aakash S S
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0543-diameter-of-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -132,4 +135,8 @@ Aakash S S
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
