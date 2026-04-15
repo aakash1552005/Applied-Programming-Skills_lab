@@ -74,6 +74,7 @@ Aakash S S
 | [0239-sliding-window-maximum](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0496-next-greater-element-i](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0641-design-circular-deque) |
@@ -101,6 +102,7 @@ Aakash S S
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0997-find-the-town-judge) |
@@ -223,6 +225,7 @@ Aakash S S
 | [0145-binary-tree-postorder-traversal](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0901-online-stock-span) |
@@ -269,6 +272,7 @@ Aakash S S
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
