@@ -19,6 +19,7 @@ Aakash S S
 | [0104-maximum-depth-of-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0113-path-sum-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -106,6 +107,7 @@ Aakash S S
 | [0104-maximum-depth-of-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0113-path-sum-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -118,6 +120,7 @@ Aakash S S
 | [0104-maximum-depth-of-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0113-path-sum-ii) |
+| [0145-binary-tree-postorder-traversal](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -168,4 +171,8 @@ Aakash S S
 | ------- |
 | [0113-path-sum-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0257-binary-tree-paths) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
