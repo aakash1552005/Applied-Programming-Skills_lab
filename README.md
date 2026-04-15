@@ -78,6 +78,7 @@ Aakash S S
 | [0622-design-circular-queue](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0641-design-circular-deque) |
 | [0695-max-area-of-island](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0695-max-area-of-island) |
+| [0735-asteroid-collision](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0946-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0997-find-the-town-judge) |
@@ -166,6 +167,7 @@ Aakash S S
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0946-validate-stack-sequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Heap (Priority Queue)
@@ -216,6 +218,7 @@ Aakash S S
 | [0145-binary-tree-postorder-traversal](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0946-validate-stack-sequences) |
 ## Design
 |  |
