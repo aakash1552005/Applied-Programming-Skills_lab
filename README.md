@@ -72,6 +72,7 @@ Aakash S S
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0496-next-greater-element-i) |
@@ -299,5 +300,6 @@ Aakash S S
 | [0142-linked-list-cycle-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
