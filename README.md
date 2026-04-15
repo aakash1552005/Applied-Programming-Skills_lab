@@ -72,6 +72,7 @@ Aakash S S
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0198-house-robber) |
@@ -195,6 +196,7 @@ Aakash S S
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0190-reverse-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1763-longest-nice-substring](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1763-longest-nice-substring) |
@@ -256,6 +258,7 @@ Aakash S S
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0257-binary-tree-paths) |
 ## Stack
