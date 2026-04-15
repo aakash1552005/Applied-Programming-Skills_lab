@@ -214,11 +214,13 @@ Aakash S S
 | [0094-binary-tree-inorder-traversal](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0232-implement-queue-using-stacks) |
 | [0946-validate-stack-sequences](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0946-validate-stack-sequences) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0641-design-circular-deque) |
