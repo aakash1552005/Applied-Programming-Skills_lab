@@ -52,6 +52,7 @@ Aakash S S
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0695-max-area-of-island](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0994-rotting-oranges) |
@@ -70,6 +71,7 @@ Aakash S S
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0387-first-unique-character-in-a-string) |
 | [0997-find-the-town-judge](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0997-find-the-town-judge) |
 ## String
@@ -84,6 +86,7 @@ Aakash S S
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
@@ -106,5 +109,22 @@ Aakash S S
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0373-find-k-pairs-with-smallest-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
