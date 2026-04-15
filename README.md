@@ -277,6 +277,7 @@ Aakash S S
 | [0234-palindrome-linked-list](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0641-design-circular-deque) |
+| [0876-middle-of-the-linked-list](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
@@ -315,6 +316,7 @@ Aakash S S
 | [0234-palindrome-linked-list](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
