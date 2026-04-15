@@ -16,6 +16,7 @@ Aakash S S
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0547-number-of-provinces) |
@@ -25,6 +26,7 @@ Aakash S S
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0547-number-of-provinces) |
@@ -80,4 +82,12 @@ Aakash S S
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0387-first-unique-character-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
