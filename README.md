@@ -255,6 +255,7 @@ Aakash S S
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0206-reverse-linked-list) |
@@ -284,6 +285,7 @@ Aakash S S
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
