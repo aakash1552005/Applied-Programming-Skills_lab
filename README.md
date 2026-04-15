@@ -83,6 +83,7 @@ Aakash S S
 | [0994-rotting-oranges](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0997-find-the-town-judge) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Union-Find
 |  |
 | ------- |
@@ -224,6 +225,7 @@ Aakash S S
 | [0735-asteroid-collision](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
@@ -259,4 +261,8 @@ Aakash S S
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
