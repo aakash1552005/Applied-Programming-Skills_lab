@@ -22,6 +22,7 @@ Aakash S S
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0695-max-area-of-island) |
@@ -81,6 +82,7 @@ Aakash S S
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0387-first-unique-character-in-a-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Queue
@@ -99,6 +101,7 @@ Aakash S S
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -107,6 +110,7 @@ Aakash S S
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0543-diameter-of-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -146,4 +150,8 @@ Aakash S S
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
