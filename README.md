@@ -184,6 +184,7 @@ Aakash S S
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0190-reverse-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Simulation
 |  |
@@ -204,6 +205,7 @@ Aakash S S
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
