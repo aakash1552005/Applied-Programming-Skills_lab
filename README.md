@@ -87,6 +87,7 @@ Aakash S S
 | [0735-asteroid-collision](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0946-validate-stack-sequences) |
+| [0977-squares-of-a-sorted-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0997-find-the-town-judge) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -208,6 +209,7 @@ Aakash S S
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0621-task-scheduler) |
+| [0977-squares-of-a-sorted-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bucket Sort
 |  |
@@ -313,6 +315,7 @@ Aakash S S
 | [0234-palindrome-linked-list](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
