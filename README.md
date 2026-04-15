@@ -29,6 +29,7 @@ Aakash S S
 | [0547-number-of-provinces](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Aakash S S
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -54,4 +56,5 @@ Aakash S S
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
