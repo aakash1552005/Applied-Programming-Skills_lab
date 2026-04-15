@@ -47,6 +47,7 @@ Aakash S S
 | [0199-binary-tree-right-side-view](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0841-keys-and-rooms) |
@@ -79,6 +80,7 @@ Aakash S S
 | [0239-sliding-window-maximum](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0322-coin-change](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0474-ones-and-zeroes](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0474-ones-and-zeroes) |
@@ -350,6 +352,7 @@ Aakash S S
 | [0070-climbing-stairs](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0474-ones-and-zeroes) |
 | [0746-min-cost-climbing-stairs](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
