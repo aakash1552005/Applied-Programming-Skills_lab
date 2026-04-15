@@ -119,6 +119,7 @@ Aakash S S
 | [0621-task-scheduler](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0997-find-the-town-judge) |
+| [1763-longest-nice-substring](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
 | ------- |
@@ -128,6 +129,7 @@ Aakash S S
 | [0387-first-unique-character-in-a-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1763-longest-nice-substring](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1763-longest-nice-substring) |
 ## Queue
 |  |
 | ------- |
@@ -186,6 +188,7 @@ Aakash S S
 | ------- |
 | [0190-reverse-bits](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0190-reverse-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1763-longest-nice-substring](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1763-longest-nice-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -208,6 +211,7 @@ Aakash S S
 | [0190-reverse-bits](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
+| [1763-longest-nice-substring](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -291,6 +295,7 @@ Aakash S S
 | [0219-contains-duplicate-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1763-longest-nice-substring](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1763-longest-nice-substring) |
 ## Ordered Set
 |  |
 | ------- |
