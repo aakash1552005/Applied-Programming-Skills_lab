@@ -73,6 +73,7 @@ Aakash S S
 | [0075-sort-colors](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
@@ -108,6 +109,7 @@ Aakash S S
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0160-intersection-of-two-linked-lists) |
+| [0219-contains-duplicate-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0496-next-greater-element-i) |
@@ -276,6 +278,7 @@ Aakash S S
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
