@@ -71,6 +71,7 @@ Aakash S S
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -258,6 +259,7 @@ Aakash S S
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0257-binary-tree-paths) |
