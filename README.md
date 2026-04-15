@@ -71,6 +71,7 @@ Aakash S S
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0621-task-scheduler](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0997-find-the-town-judge) |
@@ -90,6 +91,7 @@ Aakash S S
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0997-find-the-town-judge) |
 ## String
@@ -108,6 +110,7 @@ Aakash S S
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0621-task-scheduler) |
 ## Tree
 |  |
 | ------- |
@@ -156,6 +159,7 @@ Aakash S S
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0621-task-scheduler](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0621-task-scheduler) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,6 +170,7 @@ Aakash S S
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bucket Sort
 |  |
@@ -200,4 +205,8 @@ Aakash S S
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0933-number-of-recent-calls) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/aakash1552005/Applied-Programming-Skills_lab/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
